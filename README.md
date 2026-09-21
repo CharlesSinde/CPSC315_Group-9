@@ -1,7 +1,9 @@
 # CPSC315_Group-9
 Homomorphic Encryption - Cultural Relativism
 
-AI Generated Sumamry of the Topic for Reference:
+*************************************************
+AI Generated Summary of the Topic for Reference:
+*************************************************
 
 Question: How can we apply the ethics of Homomorphic Encryption using Cultural Relativism?
 
